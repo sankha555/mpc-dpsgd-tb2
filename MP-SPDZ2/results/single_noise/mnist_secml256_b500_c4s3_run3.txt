@@ -1,0 +1,11 @@
+Setting up connection 0
+***********************************************************
+Training FMNIST
+Model: Dense([60000, 1, 256]) => Dense([60000, 1, 256]) => Dense([60000, 1, 10]) => MultiOutput([60000, 10]) => 
+Train Examples: 60000
+Batch Size: 500
+Num Epochs: 10
+Learning Rate: 0.1 to 0.1 over 10 epochs
+Clipping Factor: 4
+Sigma: 2
+***********************************************************

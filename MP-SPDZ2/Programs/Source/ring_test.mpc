@@ -1,0 +1,4 @@
+a = sfix(2.78)
+sfix.set_precision_from_args(program, adapt_ring=True)
+
+print_ln("a = %s", a.reveal())

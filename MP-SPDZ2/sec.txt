@@ -1,0 +1,7 @@
+Using statistical security parameter 40
+Trying to run 64-bit computation
+Epoch 1.1: Loss = 2.33252
+terminate called after throwing an instance of 'std::runtime_errorterminate called recursively
+terminate called recursively
+terminate called recursively
+'

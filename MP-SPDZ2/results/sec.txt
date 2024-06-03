@@ -1,0 +1,39 @@
+Using statistical security parameter 40
+Trying to run 64-bit computation
+***********************************************************
+Training MNIST
+Model: Dense([60000, 1, 1000]) => Dense([60000, 1, 10]) => MultiOutput([60000, 10]) => 
+Train Examples: 60000
+Batch Size: 400
+Num Epochs: 1
+Learning Rate: 0.1 to 1 over 10 epochs
+Clipping Factor: 4
+***********************************************************
+Epoch 1.1: Loss = 2.44051
+TRAIN LOSS = 0.0162659
+TRAIN ACC = 0.0411987 % (25/60000)
+Loss = 2.33788
+Loss = 2.34712
+Loss = 2.34407
+Loss = 2.34222
+Loss = 2.35893
+Loss = 2.33772
+Loss = 2.35278
+Loss = 2.35327
+Loss = 2.34395
+Loss = 2.33658
+Loss = 2.33116
+Loss = 2.35623
+Loss = 2.34705
+Loss = 2.38057
+Loss = 2.36598
+Loss = 2.39476
+Loss = 2.36667
+Loss = 2.39058
+Loss = 2.36462
+Loss = 2.40253
+Loss = 2.38504
+terminate called after throwing an instance of 'closed_connection'
+terminate called recursively
+terminate called recursively
+terminate called recursively
